@@ -1,0 +1,12 @@
+{
+  "name": "temp_ho",
+  "version": "1.0.0",
+  "main": "yarn",
+  "repository": "git@github.com:ubukawa/temp_ho",
+  "author": "ubukawa",
+  "license": "MIT",
+  "dependencies": {
+    "@mapbox/geojson-area": "^0.2.2",
+    "json-text-sequence": "^0.1.1"
+  }
+}
