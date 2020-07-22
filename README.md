@@ -14,5 +14,6 @@ docker run -it --rm -v ${PWD}:/data temp_ho
 
 sudo gem install mdless hocon  
 mkdir /data/docs  
+cp Rakefile /data/Rakefile
 cd /data    
 rake    
